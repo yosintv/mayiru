@@ -1,77 +1,7 @@
 {
-  "last_updated": "2026-01-03T16:48:16.442687Z",
-  "total_matches": 24,
+  "last_updated": "2026-01-03T17:15:41.965214Z",
+  "total_matches": 21,
   "matches": [
-    {
-      "title": "Brighton vs Burnley",
-      "url": "https://ovogoaal.com/match-updates/brighton-vs-burnley/",
-      "time": "16:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://ballcontrol.click/home/blog1/"
-      ],
-      "stream_urls": [
-        "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts1/index-1.m3u8",
-        "https://ballcontrol.click/1111.php",
-        "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/home/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/1111.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts/index-1.m3u8",
-            "https://ballcontrol.click/1111.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Wolves vs West Ham",
-      "url": "https://ovogoaal.com/match-updates/wolverhampton-wanderers-vs-west-ham-united/",
-      "time": "16:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://ballcontrol.click/home/blog2/"
-      ],
-      "stream_urls": [
-        "https://ballcontrol.click/2222.php",
-        "https://storage.googleapis.com/mnuhjirteng2/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/mnuhjirteng2/mux_video_ts/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/home/blog2/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/2222.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/mnuhjirteng2/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/mnuhjirteng2/mux_video_ts/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://ballcontrol.click/2222.php",
-            "https://storage.googleapis.com/mnuhjirteng2/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/mnuhjirteng2/mux_video_ts/index-1.m3u8"
-          ]
-        }
-      ]
-    },
     {
       "title": "Bournemouth vs Arsenal",
       "url": "https://ovogoaal.com/match-updates/bournemouth-vs-arsenal/",
@@ -81,9 +11,9 @@
         "https://ballcontrol.click/home/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts1/index-1.m3u8",
         "https://ballcontrol.click/1111.php",
-        "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts/index-1.m3u8"
+        "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts/index-1.m3u8",
+        "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -94,50 +24,15 @@
               "url": "https://ballcontrol.click/1111.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts/index-1.m3u8"
+                "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts/index-1.m3u8",
+                "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts1/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts1/index-1.m3u8",
             "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts/index-1.m3u8",
+            "https://storage.googleapis.com/mnuhjirteng1/mux_video_ts1/index-1.m3u8",
             "https://ballcontrol.click/1111.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Osasuna vs Ath Club",
-      "url": "https://ovogoaal.com/match-updates/osasuna-vs-athletic-club/",
-      "time": "16:15",
-      "category": "laliga",
-      "first_level_iframes": [
-        "https://ballcontrol.click/home/blog3/"
-      ],
-      "stream_urls": [
-        "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts/index-1.m3u8",
-        "https://ballcontrol.click/3333.php"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://ballcontrol.click/home/blog3/",
-          "nested_iframes": [
-            {
-              "url": "https://ballcontrol.click/3333.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts/index-1.m3u8",
-            "https://ballcontrol.click/3333.php"
           ]
         }
       ]
@@ -151,11 +46,9 @@
         "https://ballcontrol.click/home/blog3/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts/index-1.m3u8",
         "https://ballcontrol.click/3333.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://ballcontrol.click/home/blog3/",
@@ -163,15 +56,10 @@
             {
               "url": "https://ballcontrol.click/3333.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts/index-1.m3u8",
             "https://ballcontrol.click/3333.php"
           ]
         }
@@ -186,11 +74,9 @@
         "https://ballcontrol.click/home/blog3/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts/index-1.m3u8",
         "https://ballcontrol.click/3333.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://ballcontrol.click/home/blog3/",
@@ -198,15 +84,10 @@
             {
               "url": "https://ballcontrol.click/3333.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/mnuhjirteng3/mux_video_ts/index-1.m3u8",
             "https://ballcontrol.click/3333.php"
           ]
         }
@@ -221,9 +102,9 @@
         "https://ballcontrol.click/home/blog4/"
       ],
       "stream_urls": [
+        "https://ballcontrol.click/4444.php",
         "https://storage.googleapis.com/mnuhjirteng4/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/mnuhjirteng4/mux_video_ts/index-1.m3u8",
-        "https://ballcontrol.click/4444.php"
+        "https://storage.googleapis.com/mnuhjirteng4/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -240,9 +121,9 @@
             }
           ],
           "stream_urls": [
+            "https://ballcontrol.click/4444.php",
             "https://storage.googleapis.com/mnuhjirteng4/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/mnuhjirteng4/mux_video_ts/index-1.m3u8",
-            "https://ballcontrol.click/4444.php"
+            "https://storage.googleapis.com/mnuhjirteng4/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -256,9 +137,9 @@
         "https://ballcontrol.click/home/blog4/"
       ],
       "stream_urls": [
+        "https://ballcontrol.click/4444.php",
         "https://storage.googleapis.com/mnuhjirteng4/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/mnuhjirteng4/mux_video_ts/index-1.m3u8",
-        "https://ballcontrol.click/4444.php"
+        "https://storage.googleapis.com/mnuhjirteng4/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -275,9 +156,9 @@
             }
           ],
           "stream_urls": [
+            "https://ballcontrol.click/4444.php",
             "https://storage.googleapis.com/mnuhjirteng4/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/mnuhjirteng4/mux_video_ts/index-1.m3u8",
-            "https://ballcontrol.click/4444.php"
+            "https://storage.googleapis.com/mnuhjirteng4/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -683,9 +564,9 @@
         "https://ballcontrol.click/nflhome/blog13/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/unicteringovo8/mux_video_ts1/index-1.m3u8",
         "https://storage.googleapis.com/unicteringovo8/mux_video_ts/index-1.m3u8",
-        "https://ballcontrol.click/master13.php",
-        "https://storage.googleapis.com/unicteringovo8/mux_video_ts1/index-1.m3u8"
+        "https://ballcontrol.click/master13.php"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -696,15 +577,15 @@
               "url": "https://ballcontrol.click/master13.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/unicteringovo8/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/unicteringovo8/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/unicteringovo8/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/unicteringovo8/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/unicteringovo8/mux_video_ts1/index-1.m3u8",
             "https://storage.googleapis.com/unicteringovo8/mux_video_ts/index-1.m3u8",
-            "https://ballcontrol.click/master13.php",
-            "https://storage.googleapis.com/unicteringovo8/mux_video_ts1/index-1.m3u8"
+            "https://ballcontrol.click/master13.php"
           ]
         }
       ]
