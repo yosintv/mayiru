@@ -3,7 +3,7 @@ name: Scrape Ovogoaal Events
 on:
   schedule:
     # Run every 8 hours (at 00:00, 08:00, and 16:00 UTC)
-    - cron: '0 */8 * * *'
+     - cron: '*/15 * * * *'
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
