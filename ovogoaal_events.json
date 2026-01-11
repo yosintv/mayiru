@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11T14:51:34.705138Z",
+  "last_updated": "2026-01-11T15:16:16.208001Z",
   "total_matches": 9,
   "matches": [
     {
@@ -179,11 +179,9 @@
         "https://hotnewsnation.com/nflhome/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8",
-        "https://hotnewsnation.com/master1.php",
-        "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8"
+        "https://hotnewsnation.com/master1.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://hotnewsnation.com/nflhome/blog1/",
@@ -191,16 +189,11 @@
             {
               "url": "https://hotnewsnation.com/master1.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8",
-            "https://hotnewsnation.com/master1.php",
-            "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8"
+            "https://hotnewsnation.com/master1.php"
           ]
         }
       ]
@@ -214,7 +207,7 @@
         "https://hotnewsnation.com/nflhome/blog2/"
       ],
       "stream_urls": [
-        "https://ballcontrol.click/master2.php"
+        "https://hotnewsnation.com/master1.php"
       ],
       "stream_count": 1,
       "iframe_details": [
@@ -222,13 +215,13 @@
           "url": "https://hotnewsnation.com/nflhome/blog2/",
           "nested_iframes": [
             {
-              "url": "https://ballcontrol.click/master2.php",
+              "url": "https://hotnewsnation.com/master1.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://ballcontrol.click/master2.php"
+            "https://hotnewsnation.com/master1.php"
           ]
         }
       ]
@@ -242,11 +235,9 @@
         "https://hotnewsnation.com/nflhome/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8",
-        "https://hotnewsnation.com/master1.php",
-        "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8"
+        "https://hotnewsnation.com/master1.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://hotnewsnation.com/nflhome/blog1/",
@@ -254,16 +245,11 @@
             {
               "url": "https://hotnewsnation.com/master1.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8",
-            "https://hotnewsnation.com/master1.php",
-            "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8"
+            "https://hotnewsnation.com/master1.php"
           ]
         }
       ]
