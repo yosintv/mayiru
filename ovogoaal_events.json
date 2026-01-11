@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11T15:50:35.393031Z",
+  "last_updated": "2026-01-11T16:20:04.961115Z",
   "total_matches": 9,
   "matches": [
     {
@@ -81,9 +81,9 @@
         "https://hotnewsnation.com/home/blog2/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts/index-1.m3u8",
         "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts1/index-1.m3u8",
-        "https://hotnewsnation.com/2222.php"
+        "https://hotnewsnation.com/2222.php",
+        "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -94,15 +94,15 @@
               "url": "https://hotnewsnation.com/2222.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts/index-1.m3u8",
             "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts1/index-1.m3u8",
-            "https://hotnewsnation.com/2222.php"
+            "https://hotnewsnation.com/2222.php",
+            "https://storage.googleapis.com/hunghrtyyufncs2/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
