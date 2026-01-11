@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11T14:15:40.250325Z",
+  "last_updated": "2026-01-11T14:37:08.343103Z",
   "total_matches": 9,
   "matches": [
     {
@@ -179,8 +179,8 @@
         "https://hotnewsnation.com/nflhome/blog1/"
       ],
       "stream_urls": [
-        "https://hotnewsnation.com/master1.php",
         "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
+        "https://hotnewsnation.com/master1.php",
         "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -198,8 +198,8 @@
             }
           ],
           "stream_urls": [
-            "https://hotnewsnation.com/master1.php",
             "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
+            "https://hotnewsnation.com/master1.php",
             "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
           ]
         }
@@ -242,8 +242,8 @@
         "https://hotnewsnation.com/nflhome/blog1/"
       ],
       "stream_urls": [
-        "https://hotnewsnation.com/master1.php",
         "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
+        "https://hotnewsnation.com/master1.php",
         "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -261,8 +261,8 @@
             }
           ],
           "stream_urls": [
-            "https://hotnewsnation.com/master1.php",
             "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts/index-1.m3u8",
+            "https://hotnewsnation.com/master1.php",
             "https://storage.googleapis.com/utytryetrbfcas4/mux_video_ts1/index-1.m3u8"
           ]
         }
