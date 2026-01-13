@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12T23:51:18.991866Z",
+  "last_updated": "2026-01-13T01:16:08.167889Z",
   "total_matches": 5,
   "matches": [
     {
@@ -8,24 +8,24 @@
       "time": "02:15",
       "category": "nfl",
       "first_level_iframes": [
-        "https://hotnewsnation.com/nflhome/blog1/"
+        "https://matchify.zip/nflhome/blog1/"
       ],
       "stream_urls": [
-        "https://hotnewsnation.com/master1.php"
+        "https://matchify.zip/master1.php"
       ],
       "stream_count": 1,
       "iframe_details": [
         {
-          "url": "https://hotnewsnation.com/nflhome/blog1/",
+          "url": "https://matchify.zip/nflhome/blog1/",
           "nested_iframes": [
             {
-              "url": "https://hotnewsnation.com/master1.php",
+              "url": "https://matchify.zip/master1.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://hotnewsnation.com/master1.php"
+            "https://matchify.zip/master1.php"
           ]
         }
       ]
