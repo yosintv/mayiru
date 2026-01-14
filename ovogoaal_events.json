@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14T17:56:54.245135Z",
+  "last_updated": "2026-01-14T18:32:56.972569Z",
   "total_matches": 6,
   "matches": [
     {
@@ -151,7 +151,7 @@
         "https://matchify.zip/home/blog5/"
       ],
       "stream_urls": [
-        "https://ballcontrol.click/5555.php"
+        "https://matchify.zip/5555.php"
       ],
       "stream_count": 1,
       "iframe_details": [
@@ -159,13 +159,13 @@
           "url": "https://matchify.zip/home/blog5/",
           "nested_iframes": [
             {
-              "url": "https://ballcontrol.click/5555.php",
+              "url": "https://matchify.zip/5555.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://ballcontrol.click/5555.php"
+            "https://matchify.zip/5555.php"
           ]
         }
       ]
