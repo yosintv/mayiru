@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-18T22:52:40.584914Z",
+  "last_updated": "2026-01-18T23:15:45.167314Z",
   "total_matches": 4,
   "matches": [
     {
@@ -39,7 +39,7 @@
         "https://matchify.zip/nflhome/blog2/"
       ],
       "stream_urls": [
-        "https://ballcontrol.click/master2.php"
+        "https://matchify.zip/master1.php"
       ],
       "stream_count": 1,
       "iframe_details": [
@@ -47,13 +47,13 @@
           "url": "https://matchify.zip/nflhome/blog2/",
           "nested_iframes": [
             {
-              "url": "https://ballcontrol.click/master2.php",
+              "url": "https://matchify.zip/master1.php",
               "nested_iframes": [],
               "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://ballcontrol.click/master2.php"
+            "https://matchify.zip/master1.php"
           ]
         }
       ]
