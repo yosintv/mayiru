@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-18T20:42:50.291793Z",
+  "last_updated": "2026-01-18T20:53:26.122151Z",
   "total_matches": 4,
   "matches": [
     {
@@ -67,13 +67,9 @@
         "https://matchify.zip/home/blog2/"
       ],
       "stream_urls": [
-        "https://matchify.zip/2222.php",
-        "https://d24eh3afnas0yf.cloudfront.net/out/v1/82a0d27c5cbe432f8f3de47532408dff/index_1.m3u8",
-        "https://d24eh3afnas0yf.cloudfront.net/out/v1/82a0d27c5cbe432f8f3de47532408dff/index_2.m3u8",
-        "https://d24eh3afnas0yf.cloudfront.net/out/v1/82a0d27c5cbe432f8f3de47532408dff/index_3.m3u8",
-        "https://d24eh3afnas0yf.cloudfront.net/out/v1/82a0d27c5cbe432f8f3de47532408dff/index_4.m3u8"
+        "https://matchify.zip/2222.php"
       ],
-      "stream_count": 5,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://matchify.zip/home/blog2/",
@@ -81,20 +77,11 @@
             {
               "url": "https://matchify.zip/2222.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://d24eh3afnas0yf.cloudfront.net/out/v1/82a0d27c5cbe432f8f3de47532408dff/index_4.m3u8",
-                "https://d24eh3afnas0yf.cloudfront.net/out/v1/82a0d27c5cbe432f8f3de47532408dff/index_1.m3u8",
-                "https://d24eh3afnas0yf.cloudfront.net/out/v1/82a0d27c5cbe432f8f3de47532408dff/index_2.m3u8",
-                "https://d24eh3afnas0yf.cloudfront.net/out/v1/82a0d27c5cbe432f8f3de47532408dff/index_3.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://matchify.zip/2222.php",
-            "https://d24eh3afnas0yf.cloudfront.net/out/v1/82a0d27c5cbe432f8f3de47532408dff/index_1.m3u8",
-            "https://d24eh3afnas0yf.cloudfront.net/out/v1/82a0d27c5cbe432f8f3de47532408dff/index_2.m3u8",
-            "https://d24eh3afnas0yf.cloudfront.net/out/v1/82a0d27c5cbe432f8f3de47532408dff/index_3.m3u8",
-            "https://d24eh3afnas0yf.cloudfront.net/out/v1/82a0d27c5cbe432f8f3de47532408dff/index_4.m3u8"
+            "https://matchify.zip/2222.php"
           ]
         }
       ]
