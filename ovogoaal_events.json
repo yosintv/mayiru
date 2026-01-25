@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-25T12:34:14.095874Z",
+  "last_updated": "2026-01-25T13:21:44.167420Z",
   "total_matches": 10,
   "matches": [
     {
@@ -39,11 +39,9 @@
         "https://matchify.zip/home/blog2/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/otherovoporting2/mux_video_ts/index-1.m3u8",
-        "https://matchify.zip/2222.php",
-        "https://storage.googleapis.com/otherovoporting2/mux_video_ts1/index-1.m3u8"
+        "https://matchify.zip/2222.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://matchify.zip/home/blog2/",
@@ -51,16 +49,11 @@
             {
               "url": "https://matchify.zip/2222.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/otherovoporting2/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/otherovoporting2/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/otherovoporting2/mux_video_ts/index-1.m3u8",
-            "https://matchify.zip/2222.php",
-            "https://storage.googleapis.com/otherovoporting2/mux_video_ts1/index-1.m3u8"
+            "https://matchify.zip/2222.php"
           ]
         }
       ]
@@ -74,11 +67,9 @@
         "https://matchify.zip/home/blog3/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/otherovoporting3/mux_video_ts/index-1.m3u8",
-        "https://matchify.zip/3333.php",
-        "https://storage.googleapis.com/otherovoporting3/mux_video_ts1/index-1.m3u8"
+        "https://matchify.zip/3333.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://matchify.zip/home/blog3/",
@@ -86,16 +77,11 @@
             {
               "url": "https://matchify.zip/3333.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/otherovoporting3/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/otherovoporting3/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/otherovoporting3/mux_video_ts/index-1.m3u8",
-            "https://matchify.zip/3333.php",
-            "https://storage.googleapis.com/otherovoporting3/mux_video_ts1/index-1.m3u8"
+            "https://matchify.zip/3333.php"
           ]
         }
       ]
