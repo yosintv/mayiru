@@ -1,35 +1,7 @@
 {
-  "last_updated": "2026-01-25T18:51:35.453638Z",
-  "total_matches": 4,
+  "last_updated": "2026-01-25T19:13:40.995628Z",
+  "total_matches": 3,
   "matches": [
-    {
-      "title": "Juventus vs Napoli",
-      "url": "https://ovogoal.plus/match-updates/juventus-vs-napoli/",
-      "time": "18:00",
-      "category": "seriea",
-      "first_level_iframes": [
-        "https://matchify.zip/home/blog5/"
-      ],
-      "stream_urls": [
-        "https://matchify.zip/5555.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://matchify.zip/home/blog5/",
-          "nested_iframes": [
-            {
-              "url": "https://matchify.zip/5555.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://matchify.zip/5555.php"
-          ]
-        }
-      ]
-    },
     {
       "title": "Roma vs Milan",
       "url": "https://ovogoal.plus/match-updates/roma-vs-milan/",
