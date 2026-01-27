@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-27T19:39:50.241315Z",
+  "last_updated": "2026-01-27T19:56:03.737031Z",
   "total_matches": 1,
   "matches": [
     {
@@ -10,23 +10,13 @@
       "first_level_iframes": [
         "https://matchify.zip/home/blog1/"
       ],
-      "stream_urls": [
-        "https://matchify.zip/1111.php"
-      ],
-      "stream_count": 1,
+      "stream_urls": [],
+      "stream_count": 0,
       "iframe_details": [
         {
           "url": "https://matchify.zip/home/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://matchify.zip/1111.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://matchify.zip/1111.php"
-          ]
+          "nested_iframes": [],
+          "stream_urls": []
         }
       ]
     }
