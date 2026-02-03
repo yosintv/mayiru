@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T04:15:32.323333Z",
+  "last_updated": "2026-02-03T05:20:41.777223Z",
   "total_matches": 4,
   "matches": [
     {
@@ -11,8 +11,8 @@
         "https://gametimes.top/home/blog1/"
       ],
       "stream_urls": [
-        "https://gametimes.top/1111.php",
         "https://storage.googleapis.com/gambingosover1/mux_video_ts1/index-1.m3u8",
+        "https://gametimes.top/1111.php",
         "https://storage.googleapis.com/gambingosover1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -30,8 +30,8 @@
             }
           ],
           "stream_urls": [
-            "https://gametimes.top/1111.php",
             "https://storage.googleapis.com/gambingosover1/mux_video_ts1/index-1.m3u8",
+            "https://gametimes.top/1111.php",
             "https://storage.googleapis.com/gambingosover1/mux_video_ts/index-1.m3u8"
           ]
         }
@@ -47,8 +47,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/gambingosover2/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/gambingosover2/mux_video_ts/index-1.m3u8",
-        "https://gametimes.top/2222.php"
+        "https://gametimes.top/2222.php",
+        "https://storage.googleapis.com/gambingosover2/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -66,8 +66,8 @@
           ],
           "stream_urls": [
             "https://storage.googleapis.com/gambingosover2/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/gambingosover2/mux_video_ts/index-1.m3u8",
-            "https://gametimes.top/2222.php"
+            "https://gametimes.top/2222.php",
+            "https://storage.googleapis.com/gambingosover2/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
