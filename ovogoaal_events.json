@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T21:04:51.415754Z",
+  "last_updated": "2026-02-04T21:47:11.294459Z",
   "total_matches": 2,
   "matches": [
     {
@@ -11,9 +11,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/golsingertung1/mux_video_ts/index-1.m3u8",
         "https://gametimes.plus/1111.php",
-        "https://storage.googleapis.com/golsingertung1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/golsingertung1/mux_video_ts/index-1.m3u8"
+        "https://storage.googleapis.com/golsingertung1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -24,15 +24,15 @@
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/golsingertung1/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/golsingertung1/mux_video_ts/index-1.m3u8"
+                "https://storage.googleapis.com/golsingertung1/mux_video_ts/index-1.m3u8",
+                "https://storage.googleapis.com/golsingertung1/mux_video_ts1/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/golsingertung1/mux_video_ts/index-1.m3u8",
             "https://gametimes.plus/1111.php",
-            "https://storage.googleapis.com/golsingertung1/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/golsingertung1/mux_video_ts/index-1.m3u8"
+            "https://storage.googleapis.com/golsingertung1/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
@@ -46,8 +46,8 @@
         "https://gametimes.plus/home/blog2/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/golsingertung2/mux_video_ts/index-1.m3u8",
         "https://storage.googleapis.com/golsingertung2/mux_video_ts1/index-1.m3u8",
+        "https://storage.googleapis.com/golsingertung2/mux_video_ts/index-1.m3u8",
         "https://gametimes.plus/2222.php"
       ],
       "stream_count": 3,
@@ -59,14 +59,14 @@
               "url": "https://gametimes.plus/2222.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/golsingertung2/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/golsingertung2/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/golsingertung2/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/golsingertung2/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/golsingertung2/mux_video_ts/index-1.m3u8",
             "https://storage.googleapis.com/golsingertung2/mux_video_ts1/index-1.m3u8",
+            "https://storage.googleapis.com/golsingertung2/mux_video_ts/index-1.m3u8",
             "https://gametimes.plus/2222.php"
           ]
         }
