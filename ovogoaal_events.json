@@ -1,154 +1,7 @@
 {
-  "last_updated": "2026-02-07T16:58:07.252772Z",
-  "total_matches": 15,
+  "last_updated": "2026-02-07T17:26:29.707641Z",
+  "total_matches": 9,
   "matches": [
-    {
-      "title": "Arsenal vs Sunderland",
-      "url": "https://ovogoal.plus/match-updates/arsenal-vs-sunderland/",
-      "time": "16:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://gametimes.plus/home/blog1/"
-      ],
-      "stream_urls": [
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-        "https://gametimes.plus/1111.php"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://gametimes.plus/home/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://gametimes.plus/1111.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/1111.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Wolves vs Chelsea",
-      "url": "https://ovogoal.plus/match-updates/wolves-vs-chelsea/",
-      "time": "16:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://gametimes.plus/home/blog2/"
-      ],
-      "stream_urls": [
-        "https://gametimes.plus/2222.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://gametimes.plus/home/blog2/",
-          "nested_iframes": [
-            {
-              "url": "https://gametimes.plus/2222.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://gametimes.plus/2222.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Bournemouth vs Aston Villa",
-      "url": "https://ovogoal.plus/match-updates/bournemouth-vs-aston-villa/",
-      "time": "16:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://gametimes.plus/home/blog3/"
-      ],
-      "stream_urls": [
-        "https://gametimes.plus/3333.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://gametimes.plus/home/blog3/",
-          "nested_iframes": [
-            {
-              "url": "https://gametimes.plus/3333.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://gametimes.plus/3333.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Fulham vs Everton",
-      "url": "https://ovogoal.plus/match-updates/fulham-vs-everton/",
-      "time": "16:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://gametimes.plus/home/blog4/"
-      ],
-      "stream_urls": [
-        "https://gametimes.plus/4444.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://gametimes.plus/home/blog4/",
-          "nested_iframes": [
-            {
-              "url": "https://gametimes.plus/4444.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://gametimes.plus/4444.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Burnley vs West Ham United",
-      "url": "https://ovogoal.plus/match-updates/burnley-vs-west-ham/",
-      "time": "16:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://gametimes.plus/home/blog5/"
-      ],
-      "stream_urls": [
-        "https://gametimes.plus/5555.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://gametimes.plus/home/blog5/",
-          "nested_iframes": [
-            {
-              "url": "https://gametimes.plus/5555.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://gametimes.plus/5555.php"
-          ]
-        }
-      ]
-    },
     {
       "title": "Newcastle vs Brentford",
       "url": "https://ovogoal.plus/match-updates/newcastle-vs-brentford/",
@@ -158,9 +11,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
+        "https://gametimes.plus/1111.php",
         "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-        "https://gametimes.plus/1111.php"
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -177,44 +30,9 @@
             }
           ],
           "stream_urls": [
+            "https://gametimes.plus/1111.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/1111.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Barcelona vs Mallorca",
-      "url": "https://ovogoal.plus/match-updates/barcelona-vs-mallorca/",
-      "time": "16:15",
-      "category": "laliga",
-      "first_level_iframes": [
-        "https://gametimes.plus/home/blog6/"
-      ],
-      "stream_urls": [
-        "https://gametimes.plus/6666.php",
-        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://gametimes.plus/home/blog6/",
-          "nested_iframes": [
-            {
-              "url": "https://gametimes.plus/6666.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://gametimes.plus/6666.php",
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -222,7 +40,7 @@
     {
       "title": "PFL Dubai: Nurmagomedov vs. Davis",
       "url": "https://ovogoal.plus/match-updates/pfl-dubai-nurmagomedov-vs-davis/",
-      "time": "Feb 7 Â· 3:00 PM",
+      "time": "3:00 PM",
       "category": "mma",
       "first_level_iframes": [
         "https://gametimes.plus/mma/blog-pfl/"
@@ -250,15 +68,15 @@
     {
       "title": "UFC Fight Night: Bautista vs. Oliveira",
       "url": "https://ovogoal.plus/match-updates/ufc-bautista-vs-oliveira/",
-      "time": "Feb 7 Â· 11:00 PM",
+      "time": "11:00 PM",
       "category": "mma",
       "first_level_iframes": [
         "https://gametimes.plus/mma/blog/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts1/index-1.m3u8",
         "https://gametimes.plus/7777.php",
-        "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -269,15 +87,15 @@
               "url": "https://gametimes.plus/7777.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts1/index-1.m3u8",
             "https://gametimes.plus/7777.php",
-            "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -291,9 +109,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
+        "https://gametimes.plus/1111.php",
         "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-        "https://gametimes.plus/1111.php"
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -310,9 +128,9 @@
             }
           ],
           "stream_urls": [
+            "https://gametimes.plus/1111.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/1111.php"
+            "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -326,9 +144,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
+        "https://gametimes.plus/1111.php",
         "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-        "https://gametimes.plus/1111.php"
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -345,9 +163,9 @@
             }
           ],
           "stream_urls": [
+            "https://gametimes.plus/1111.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/1111.php"
+            "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -361,9 +179,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
+        "https://gametimes.plus/1111.php",
         "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-        "https://gametimes.plus/1111.php"
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -380,9 +198,9 @@
             }
           ],
           "stream_urls": [
+            "https://gametimes.plus/1111.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/1111.php"
+            "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
