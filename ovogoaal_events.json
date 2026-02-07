@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-07T15:56:59.796828Z",
+  "last_updated": "2026-02-07T16:28:34.013479Z",
   "total_matches": 10,
   "matches": [
     {
@@ -81,11 +81,9 @@
         "https://gametimes.plus/home/blog2/"
       ],
       "stream_urls": [
-        "https://gametimes.plus/2222.php",
-        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8"
+        "https://gametimes.plus/2222.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/home/blog2/",
@@ -93,16 +91,11 @@
             {
               "url": "https://gametimes.plus/2222.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://gametimes.plus/2222.php",
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8"
+            "https://gametimes.plus/2222.php"
           ]
         }
       ]
@@ -291,8 +284,8 @@
         "https://gametimes.plus/mma/blog/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts1/index-1.m3u8",
         "https://gametimes.plus/7777.php",
+        "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts1/index-1.m3u8",
         "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -310,9 +303,9 @@
             }
           ],
           "stream_urls": [
+            "https://gametimes.plus/7777.php",
             "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/7777.php"
+            "https://storage.googleapis.com/pouyrtugngbdfhd3/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
