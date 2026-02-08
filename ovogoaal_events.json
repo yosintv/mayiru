@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T22:54:41.452665Z",
+  "last_updated": "2026-02-08T23:26:17.608262Z",
   "total_matches": 1,
   "matches": [
     {
@@ -11,11 +11,9 @@
         "https://gametimes.plus/nfl/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/unsertoungfg1/mux_video_ts/index-1.m3u8",
-        "https://gametimes.plus/master1.php",
-        "https://storage.googleapis.com/unsertoungfg1/mux_video_ts1/index-1.m3u8"
+        "https://gametimes.plus/master1.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/nfl/blog1/",
@@ -23,16 +21,11 @@
             {
               "url": "https://gametimes.plus/master1.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/unsertoungfg1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/unsertoungfg1/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/unsertoungfg1/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/master1.php",
-            "https://storage.googleapis.com/unsertoungfg1/mux_video_ts1/index-1.m3u8"
+            "https://gametimes.plus/master1.php"
           ]
         }
       ]
