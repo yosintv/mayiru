@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-08T07:28:42.837486Z",
+  "last_updated": "2026-02-08T07:57:31.285197Z",
   "total_matches": 9,
   "matches": [
     {
@@ -11,9 +11,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
         "https://gametimes.plus/1111.php",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -24,14 +24,14 @@
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://gametimes.plus/1111.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
+            "https://gametimes.plus/1111.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
           ]
         }
@@ -46,8 +46,8 @@
         "https://gametimes.plus/mma/blog-pfl/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
         "https://gametimes.plus/pfl.php",
+        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
         "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -65,9 +65,9 @@
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
             "https://gametimes.plus/pfl.php",
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8"
+            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8",
+            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
@@ -81,9 +81,9 @@
         "https://gametimes.plus/mma/blog/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
         "https://gametimes.plus/7777.php",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -94,14 +94,14 @@
               "url": "https://gametimes.plus/7777.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://gametimes.plus/7777.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
+            "https://gametimes.plus/7777.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
           ]
         }
@@ -116,9 +116,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
         "https://gametimes.plus/1111.php",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -129,14 +129,14 @@
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://gametimes.plus/1111.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
+            "https://gametimes.plus/1111.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
           ]
         }
@@ -151,9 +151,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
         "https://gametimes.plus/1111.php",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -164,14 +164,14 @@
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://gametimes.plus/1111.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
+            "https://gametimes.plus/1111.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
           ]
         }
@@ -186,9 +186,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
         "https://gametimes.plus/1111.php",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -199,14 +199,14 @@
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://gametimes.plus/1111.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
+            "https://gametimes.plus/1111.php",
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
           ]
         }
