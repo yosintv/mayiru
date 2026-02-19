@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18T23:44:58.535488Z",
+  "last_updated": "2026-02-19T00:01:56.387261Z",
   "total_matches": 5,
   "matches": [
     {
@@ -30,9 +30,9 @@
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8",
             "https://storage.googleapis.com/westorevoer1/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/1111.php",
-            "https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8"
+            "https://gametimes.plus/1111.php"
           ]
         }
       ]
@@ -65,9 +65,9 @@
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8",
             "https://storage.googleapis.com/westorevoer1/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/1111.php",
-            "https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8"
+            "https://gametimes.plus/1111.php"
           ]
         }
       ]
@@ -138,8 +138,8 @@
       ],
       "stream_urls": [
         "https://gametimes.plus/4444.php",
-        "https://storage.googleapis.com/westorevoer2/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/westorevoer2/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/westorevoer2/mux_video_ts1/index-1.m3u8",
+        "https://storage.googleapis.com/westorevoer2/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -150,8 +150,8 @@
               "url": "https://gametimes.plus/4444.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/westorevoer2/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/westorevoer2/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/westorevoer2/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/westorevoer2/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
