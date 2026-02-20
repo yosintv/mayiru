@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20T07:58:03.210596Z",
+  "last_updated": "2026-02-20T08:43:06.706468Z",
   "total_matches": 5,
   "matches": [
     {
@@ -138,8 +138,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/westorevoer2/mux_video_ts/index-1.m3u8",
-        "https://gametimes.plus/4444.php",
-        "https://storage.googleapis.com/westorevoer2/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/westorevoer2/mux_video_ts1/index-1.m3u8",
+        "https://gametimes.plus/4444.php"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -157,8 +157,8 @@
           ],
           "stream_urls": [
             "https://storage.googleapis.com/westorevoer2/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/4444.php",
-            "https://storage.googleapis.com/westorevoer2/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/westorevoer2/mux_video_ts1/index-1.m3u8",
+            "https://gametimes.plus/4444.php"
           ]
         }
       ]
