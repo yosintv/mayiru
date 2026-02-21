@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-21T11:56:09.295033Z",
-  "total_matches": 10,
+  "last_updated": "2026-02-21T12:39:22.188881Z",
+  "total_matches": 11,
   "matches": [
     {
       "title": "Brentford vs Brighton",
@@ -11,11 +11,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/westorevoer1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8",
         "https://gametimes.plus/1111.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/home/blog1/",
@@ -23,15 +21,10 @@
             {
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/westorevoer1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/westorevoer1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8",
             "https://gametimes.plus/1111.php"
           ]
         }
@@ -102,11 +95,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/westorevoer1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8",
         "https://gametimes.plus/1111.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/home/blog1/",
@@ -114,15 +105,10 @@
             {
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/westorevoer1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/westorevoer1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8",
             "https://gametimes.plus/1111.php"
           ]
         }
@@ -137,11 +123,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/westorevoer1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8",
         "https://gametimes.plus/1111.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/home/blog1/",
@@ -149,15 +133,10 @@
             {
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/westorevoer1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/westorevoer1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8",
             "https://gametimes.plus/1111.php"
           ]
         }
@@ -278,15 +257,15 @@
     {
       "title": "Sean Strickland vs. Joaquin Hernandez",
       "url": "https://ovogoal.plus/match-updates/strickland-vs-hernandez/",
-      "time": "TBD",
+      "time": "00:00",
       "category": "mma",
       "first_level_iframes": [
         "https://gametimes.plus/mma/blog/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
         "https://gametimes.plus/7777.php",
-        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
+        "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -297,15 +276,43 @@
               "url": "https://gametimes.plus/7777.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
+                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
+                "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
             "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts1/index-1.m3u8",
-            "https://gametimes.plus/7777.php",
-            "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8"
+            "https://storage.googleapis.com/pourtytnvvsde1/mux_video_ts/index-1.m3u8",
+            "https://gametimes.plus/7777.php"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mario Barrios vs. Ryan Garcia",
+      "url": "https://ovogoal.plus/match-updates/mario-barrios-vs-ryan-garcia/",
+      "time": "23:00",
+      "category": "boxing",
+      "first_level_iframes": [
+        "https://gametimes.plus/box/stream1/"
+      ],
+      "stream_urls": [
+        "https://ballcontrol.click/6666.php"
+      ],
+      "stream_count": 1,
+      "iframe_details": [
+        {
+          "url": "https://gametimes.plus/box/stream1/",
+          "nested_iframes": [
+            {
+              "url": "https://ballcontrol.click/6666.php",
+              "nested_iframes": [],
+              "stream_urls": []
+            }
+          ],
+          "stream_urls": [
+            "https://ballcontrol.click/6666.php"
           ]
         }
       ]
