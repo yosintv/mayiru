@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23T20:39:35.462556Z",
+  "last_updated": "2026-02-23T21:28:24.881222Z",
   "total_matches": 1,
   "matches": [
     {
@@ -11,9 +11,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8",
+        "https://gametimes.plus/1111.php",
         "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8",
-        "https://gametimes.plus/1111.php"
+        "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -24,15 +24,15 @@
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8",
+            "https://gametimes.plus/1111.php",
             "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8",
-            "https://gametimes.plus/1111.php"
+            "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
