@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T14:39:18.863320Z",
+  "last_updated": "2026-02-24T15:38:26.247887Z",
   "total_matches": 4,
   "matches": [
     {
@@ -11,11 +11,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
-        "https://gametimes.plus/1111.php",
-        "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8"
+        "https://gametimes.plus/1111.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/home/blog1/",
@@ -23,16 +21,11 @@
             {
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://gametimes.plus/1111.php",
-            "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8"
+            "https://gametimes.plus/1111.php"
           ]
         }
       ]
@@ -46,11 +39,9 @@
         "https://gametimes.plus/home/blog1/"
       ],
       "stream_urls": [
-        "https://gametimes.plus/1111.php",
-        "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8"
+        "https://gametimes.plus/1111.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://gametimes.plus/home/blog1/",
@@ -58,16 +49,11 @@
             {
               "url": "https://gametimes.plus/1111.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://gametimes.plus/1111.php",
-            "https://storage.googleapis.com/fangazett/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8"
+            "https://gametimes.plus/1111.php"
           ]
         }
       ]
@@ -81,9 +67,9 @@
         "https://gametimes.plus/home/blog2/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/ovretungeropen2/mux_video_ts/index-1.m3u8",
         "https://gametimes.plus/2222.php",
-        "https://storage.googleapis.com/ovretungeropen2/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/ovretungeropen2/mux_video_ts1/index-1.m3u8",
+        "https://storage.googleapis.com/ovretungeropen2/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -94,15 +80,15 @@
               "url": "https://gametimes.plus/2222.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/ovretungeropen2/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/ovretungeropen2/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/ovretungeropen2/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/ovretungeropen2/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/ovretungeropen2/mux_video_ts/index-1.m3u8",
             "https://gametimes.plus/2222.php",
-            "https://storage.googleapis.com/ovretungeropen2/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/ovretungeropen2/mux_video_ts1/index-1.m3u8",
+            "https://storage.googleapis.com/ovretungeropen2/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
