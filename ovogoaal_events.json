@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-27T23:20:55.602197Z",
-  "total_matches": 10,
+  "last_updated": "2026-02-27T23:45:50.923379Z",
+  "total_matches": 11,
   "matches": [
     {
       "title": "Bournemouth vs Sunderland",
@@ -278,6 +278,34 @@
           ],
           "stream_urls": [
             "https://gametimes.plus/3333.php"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Emanuel Navarrete vs. Eduardo Nunez",
+      "url": "https://ovogoal.plus/match-updates/emanuel-navarrete-vs-eduardo-nunez/",
+      "time": "01:00",
+      "category": "boxing",
+      "first_level_iframes": [
+        "https://areagame.net/box/stream1/"
+      ],
+      "stream_urls": [
+        "https://gametimes.plus/5555.php"
+      ],
+      "stream_count": 1,
+      "iframe_details": [
+        {
+          "url": "https://areagame.net/box/stream1/",
+          "nested_iframes": [
+            {
+              "url": "https://gametimes.plus/5555.php",
+              "nested_iframes": [],
+              "stream_urls": []
+            }
+          ],
+          "stream_urls": [
+            "https://gametimes.plus/5555.php"
           ]
         }
       ]
