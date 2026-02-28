@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-28T09:21:50.513355Z",
-  "total_matches": 11,
+  "last_updated": "2026-02-28T09:47:06.722269Z",
+  "total_matches": 10,
   "matches": [
     {
       "title": "Bournemouth vs Sunderland",
@@ -94,23 +94,13 @@
       "first_level_iframes": [
         "https://areagame.net/home/blog3/"
       ],
-      "stream_urls": [
-        "https://areagame.net/3333.php"
-      ],
-      "stream_count": 1,
+      "stream_urls": [],
+      "stream_count": 0,
       "iframe_details": [
         {
           "url": "https://areagame.net/home/blog3/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/3333.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/3333.php"
-          ]
+          "nested_iframes": [],
+          "stream_urls": []
         }
       ]
     },
@@ -138,34 +128,6 @@
           ],
           "stream_urls": [
             "https://areagame.net/1111.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Barcelona vs Villarreal",
-      "url": "https://ovogoal.plus/match-updates/barcelona-vs-villarreal/",
-      "time": "16:15",
-      "category": "laliga",
-      "first_level_iframes": [
-        "https://areagame.net/home/blog4/"
-      ],
-      "stream_urls": [
-        "https://areagame.net/4444.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://areagame.net/home/blog4/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/4444.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/4444.php"
           ]
         }
       ]
