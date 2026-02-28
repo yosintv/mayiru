@@ -1,133 +1,7 @@
 {
-  "last_updated": "2026-02-28T16:48:40.376529Z",
-  "total_matches": 11,
+  "last_updated": "2026-02-28T17:16:37.283028Z",
+  "total_matches": 6,
   "matches": [
-    {
-      "title": "Bournemouth vs Sunderland",
-      "url": "https://ovogoal.plus/match-updates/bournemouth-vs-sunderland/",
-      "time": "13:30",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://areagame.net/home/blog1/"
-      ],
-      "stream_urls": [
-        "https://areagame.net/1111.php",
-        "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://areagame.net/home/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/1111.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/1111.php",
-            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Liverpool vs West Ham",
-      "url": "https://ovogoal.plus/match-updates/liverpool-vs-west-ham-united/",
-      "time": "16:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://areagame.net/home/blog1/"
-      ],
-      "stream_urls": [
-        "https://areagame.net/1111.php",
-        "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://areagame.net/home/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/1111.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/1111.php",
-            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Burnley vs Brentford",
-      "url": "https://ovogoal.plus/match-updates/burnley-vs-brentford/",
-      "time": "16:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://areagame.net/home/blog2/"
-      ],
-      "stream_urls": [
-        "https://areagame.net/2222.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://areagame.net/home/blog2/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/2222.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/2222.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Newcastle vs Everton",
-      "url": "https://ovogoal.plus/match-updates/newcastle-united-vs-everton/",
-      "time": "16:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://areagame.net/home/blog3/"
-      ],
-      "stream_urls": [
-        "https://areagame.net/3333.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://areagame.net/home/blog3/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/3333.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/3333.php"
-          ]
-        }
-      ]
-    },
     {
       "title": "Leeds vs Man City",
       "url": "https://ovogoal.plus/match-updates/leeds-united-vs-manchester-city/",
@@ -137,8 +11,8 @@
         "https://areagame.net/home/blog1/"
       ],
       "stream_urls": [
-        "https://areagame.net/1111.php",
         "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
+        "https://areagame.net/1111.php",
         "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -156,44 +30,9 @@
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
             "https://areagame.net/1111.php",
-            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Barcelona vs Villarreal",
-      "url": "https://ovogoal.plus/match-updates/barcelona-vs-villarreal/",
-      "time": "16:15",
-      "category": "laliga",
-      "first_level_iframes": [
-        "https://areagame.net/home/blog4/"
-      ],
-      "stream_urls": [
-        "https://areagame.net/4444.php",
-        "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://areagame.net/home/blog4/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/4444.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-            "https://areagame.net/4444.php",
-            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -319,8 +158,8 @@
         "https://areagame.net/box/stream1/"
       ],
       "stream_urls": [
-        "https://areagame.net/6666.php",
         "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
+        "https://areagame.net/6666.php",
         "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -338,9 +177,9 @@
             }
           ],
           "stream_urls": [
-            "https://areagame.net/6666.php",
             "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8"
+            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8",
+            "https://areagame.net/6666.php"
           ]
         }
       ]
