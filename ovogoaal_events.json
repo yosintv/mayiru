@@ -1,63 +1,7 @@
 {
-  "last_updated": "2026-02-28T23:55:23.258675Z",
-  "total_matches": 10,
+  "last_updated": "2026-03-01T01:54:03.739771Z",
+  "total_matches": 8,
   "matches": [
-    {
-      "title": "Inter vs Genoa",
-      "url": "https://ovogoal.plus/match-updates/internazionale-vs-genoa/",
-      "time": "20:45",
-      "category": "seriea",
-      "first_level_iframes": [
-        "https://areagame.net/home/blog2/"
-      ],
-      "stream_urls": [
-        "https://areagame.net/2222.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://areagame.net/home/blog2/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/2222.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/2222.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Le Havre vs PSG",
-      "url": "https://ovogoal.plus/match-updates/le-havre-vs-psg/",
-      "time": "21:05",
-      "category": "ligue1",
-      "first_level_iframes": [
-        "https://areagame.net/home/blog3/"
-      ],
-      "stream_urls": [
-        "https://areagame.net/3333.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://areagame.net/home/blog3/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/3333.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/3333.php"
-          ]
-        }
-      ]
-    },
     {
       "title": "UFC Fight Night: Moreno vs. Kavanagh",
       "url": "https://ovogoal.plus/match-updates/ufc-fight-night-moreno-vs-kavanagh/",
@@ -95,11 +39,9 @@
         "https://areagame.net/box/stream1/"
       ],
       "stream_urls": [
-        "https://areagame.net/6666.php",
-        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8"
+        "https://areagame.net/6666.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://areagame.net/box/stream1/",
@@ -107,15 +49,10 @@
             {
               "url": "https://areagame.net/6666.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8",
             "https://areagame.net/6666.php"
           ]
         }
@@ -130,8 +67,8 @@
         "https://areagame.net/home/blog1/"
       ],
       "stream_urls": [
-        "https://areagame.net/1111.php",
         "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8",
+        "https://areagame.net/1111.php",
         "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -221,8 +158,8 @@
         "https://areagame.net/home/blog1/"
       ],
       "stream_urls": [
-        "https://areagame.net/1111.php",
         "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8",
+        "https://areagame.net/1111.php",
         "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -257,8 +194,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8",
-        "https://areagame.net/4444.php"
+        "https://areagame.net/4444.php",
+        "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -276,8 +213,8 @@
           ],
           "stream_urls": [
             "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8",
-            "https://areagame.net/4444.php"
+            "https://areagame.net/4444.php",
+            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
@@ -292,8 +229,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8",
-        "https://areagame.net/4444.php"
+        "https://areagame.net/4444.php",
+        "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -311,8 +248,8 @@
           ],
           "stream_urls": [
             "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8",
-            "https://areagame.net/4444.php"
+            "https://areagame.net/4444.php",
+            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
