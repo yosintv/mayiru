@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T10:49:24.454598Z",
+  "last_updated": "2026-03-01T11:16:49.589477Z",
   "total_matches": 8,
   "matches": [
     {
@@ -67,9 +67,9 @@
         "https://areagame.net/home/blog1/"
       ],
       "stream_urls": [
+        "https://areagame.net/1111.php",
         "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
-        "https://areagame.net/1111.php"
+        "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -86,9 +86,9 @@
             }
           ],
           "stream_urls": [
+            "https://areagame.net/1111.php",
             "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
-            "https://areagame.net/1111.php"
+            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
@@ -158,9 +158,9 @@
         "https://areagame.net/home/blog1/"
       ],
       "stream_urls": [
+        "https://areagame.net/1111.php",
         "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
-        "https://areagame.net/1111.php"
+        "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -177,9 +177,9 @@
             }
           ],
           "stream_urls": [
+            "https://areagame.net/1111.php",
             "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8",
-            "https://areagame.net/1111.php"
+            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
@@ -212,9 +212,9 @@
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8",
             "https://areagame.net/4444.php",
-            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -247,9 +247,9 @@
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8",
             "https://areagame.net/4444.php",
-            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
