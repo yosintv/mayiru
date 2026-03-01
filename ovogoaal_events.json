@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-01T12:38:39.604257Z",
-  "total_matches": 6,
+  "last_updated": "2026-03-01T13:27:35.555061Z",
+  "total_matches": 5,
   "matches": [
     {
       "title": "Man United vs Cry Palace",
@@ -11,11 +11,9 @@
         "https://areagame.net/home/blog1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8",
-        "https://areagame.net/1111.php",
-        "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8"
+        "https://areagame.net/1111.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://areagame.net/home/blog1/",
@@ -23,16 +21,11 @@
             {
               "url": "https://areagame.net/1111.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts/index-1.m3u8",
-            "https://areagame.net/1111.php",
-            "https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8"
+            "https://areagame.net/1111.php"
           ]
         }
       ]
@@ -122,41 +115,6 @@
       ]
     },
     {
-      "title": "Cremonese vs Milan",
-      "url": "https://ovogoal.plus/match-updates/cremonese-vs-milan/",
-      "time": "12:30",
-      "category": "seriea",
-      "first_level_iframes": [
-        "https://areagame.net/home/blog4/"
-      ],
-      "stream_urls": [
-        "https://areagame.net/4444.php",
-        "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://areagame.net/home/blog4/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/4444.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/4444.php",
-            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
       "title": "Roma vs Juventus",
       "url": "https://ovogoal.plus/match-updates/roma-vs-juventus/",
       "time": "20:45",
@@ -165,11 +123,9 @@
         "https://areagame.net/home/blog4/"
       ],
       "stream_urls": [
-        "https://areagame.net/4444.php",
-        "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
+        "https://areagame.net/4444.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://areagame.net/home/blog4/",
@@ -177,16 +133,11 @@
             {
               "url": "https://areagame.net/4444.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://areagame.net/4444.php",
-            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/uncetrunvover3/mux_video_ts1/index-1.m3u8"
+            "https://areagame.net/4444.php"
           ]
         }
       ]
