@@ -1,98 +1,7 @@
 {
-  "last_updated": "2026-03-01T15:57:06.249863Z",
-  "total_matches": 5,
+  "last_updated": "2026-03-01T16:28:06.929759Z",
+  "total_matches": 2,
   "matches": [
-    {
-      "title": "Man United vs Cry Palace",
-      "url": "https://ovogoal.plus/match-updates/manchester-united-vs-crystal-palace/",
-      "time": "15:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://areagame.net/home/blog1/"
-      ],
-      "stream_urls": [
-        "https://areagame.net/1111.php",
-        "https://storage.googleapis.com/unicterungitjds1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/unicterungitjds1/mux_video_ts1/index-1.m3u8"
-      ],
-      "stream_count": 3,
-      "iframe_details": [
-        {
-          "url": "https://areagame.net/home/blog1/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/1111.php",
-              "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/unicterungitjds1/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/unicterungitjds1/mux_video_ts1/index-1.m3u8"
-              ]
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/1111.php",
-            "https://storage.googleapis.com/unicterungitjds1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/unicterungitjds1/mux_video_ts1/index-1.m3u8"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Fulham vs Tottenham",
-      "url": "https://ovogoal.plus/match-updates/fulham-vs-tottenham-hotspur/",
-      "time": "15:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://areagame.net/home/blog2/"
-      ],
-      "stream_urls": [
-        "https://areagame.net/2222.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://areagame.net/home/blog2/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/2222.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/2222.php"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Brighton vs Nottingham",
-      "url": "https://ovogoal.plus/match-updates/brighton-hove-albion-vs-nottingham-forest/",
-      "time": "15:00",
-      "category": "premier",
-      "first_level_iframes": [
-        "https://areagame.net/home/blog3/"
-      ],
-      "stream_urls": [
-        "https://areagame.net/3333.php"
-      ],
-      "stream_count": 1,
-      "iframe_details": [
-        {
-          "url": "https://areagame.net/home/blog3/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/3333.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/3333.php"
-          ]
-        }
-      ]
-    },
     {
       "title": "Arsenal vs Chelsea",
       "url": "https://ovogoal.plus/match-updates/arsenal-vs-chelsea/",
@@ -102,8 +11,8 @@
         "https://areagame.net/home/blog1/"
       ],
       "stream_urls": [
-        "https://areagame.net/1111.php",
         "https://storage.googleapis.com/unicterungitjds1/mux_video_ts/index-1.m3u8",
+        "https://areagame.net/1111.php",
         "https://storage.googleapis.com/unicterungitjds1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -121,8 +30,8 @@
             }
           ],
           "stream_urls": [
-            "https://areagame.net/1111.php",
             "https://storage.googleapis.com/unicterungitjds1/mux_video_ts/index-1.m3u8",
+            "https://areagame.net/1111.php",
             "https://storage.googleapis.com/unicterungitjds1/mux_video_ts1/index-1.m3u8"
           ]
         }
