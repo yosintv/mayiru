@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T18:40:56.677734Z",
+  "last_updated": "2026-03-03T19:27:59.964799Z",
   "total_matches": 6,
   "matches": [
     {
@@ -151,28 +151,21 @@
         "https://areagame.net/home/blog6/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8",
-        "https://gametimes.plus/6666.php"
+        "https://areagame.net/6666.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://areagame.net/home/blog6/",
           "nested_iframes": [
             {
-              "url": "https://gametimes.plus/6666.php",
+              "url": "https://areagame.net/6666.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8",
-            "https://gametimes.plus/6666.php"
+            "https://areagame.net/6666.php"
           ]
         }
       ]
