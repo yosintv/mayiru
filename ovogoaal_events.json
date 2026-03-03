@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:54:11.401748Z",
+  "last_updated": "2026-03-03T08:36:12.880729Z",
   "total_matches": 6,
   "matches": [
     {
@@ -10,23 +10,13 @@
       "first_level_iframes": [
         "https://areagame.net/events/tracker1/"
       ],
-      "stream_urls": [
-        "https://areagame.net/1111.php"
-      ],
-      "stream_count": 1,
+      "stream_urls": [],
+      "stream_count": 0,
       "iframe_details": [
         {
           "url": "https://areagame.net/events/tracker1/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/1111.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/1111.php"
-          ]
+          "nested_iframes": [],
+          "stream_urls": []
         }
       ]
     },
@@ -38,23 +28,13 @@
       "first_level_iframes": [
         "https://areagame.net/home/blog2/"
       ],
-      "stream_urls": [
-        "https://areagame.net/2222.php"
-      ],
-      "stream_count": 1,
+      "stream_urls": [],
+      "stream_count": 0,
       "iframe_details": [
         {
           "url": "https://areagame.net/home/blog2/",
-          "nested_iframes": [
-            {
-              "url": "https://areagame.net/2222.php",
-              "nested_iframes": [],
-              "stream_urls": []
-            }
-          ],
-          "stream_urls": [
-            "https://areagame.net/2222.php"
-          ]
+          "nested_iframes": [],
+          "stream_urls": []
         }
       ]
     },
