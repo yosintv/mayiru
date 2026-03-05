@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T04:25:39.278025Z",
+  "last_updated": "2026-03-05T05:30:07.800861Z",
   "total_matches": 1,
   "matches": [
     {
@@ -11,8 +11,8 @@
         "https://areagame.net/events/tracker1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/potughertung1/mux_video_ts1/index-1.m3u8",
         "https://areagame.net/1111.php",
+        "https://storage.googleapis.com/potughertung1/mux_video_ts1/index-1.m3u8",
         "https://storage.googleapis.com/potughertung1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -30,9 +30,9 @@
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/potughertung1/mux_video_ts/index-1.m3u8",
             "https://storage.googleapis.com/potughertung1/mux_video_ts1/index-1.m3u8",
-            "https://areagame.net/1111.php",
-            "https://storage.googleapis.com/potughertung1/mux_video_ts/index-1.m3u8"
+            "https://areagame.net/1111.php"
           ]
         }
       ]
