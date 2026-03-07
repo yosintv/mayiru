@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T16:00:23.190629Z",
+  "last_updated": "2026-03-07T16:28:29.774009Z",
   "total_matches": 6,
   "matches": [
     {
@@ -68,8 +68,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/uncxwerrryuns3/mux_video_ts1/index-1.m3u8",
-        "https://areagame.net/3333.php",
-        "https://storage.googleapis.com/uncxwerrryuns3/mux_video_ts/index-1.m3u8"
+        "https://storage.googleapis.com/uncxwerrryuns3/mux_video_ts/index-1.m3u8",
+        "https://areagame.net/3333.php"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -86,9 +86,9 @@
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/uncxwerrryuns3/mux_video_ts/index-1.m3u8",
             "https://storage.googleapis.com/uncxwerrryuns3/mux_video_ts1/index-1.m3u8",
-            "https://areagame.net/3333.php",
-            "https://storage.googleapis.com/uncxwerrryuns3/mux_video_ts/index-1.m3u8"
+            "https://areagame.net/3333.php"
           ]
         }
       ]
