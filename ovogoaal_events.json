@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T15:18:50.739334Z",
+  "last_updated": "2026-03-07T15:44:12.396210Z",
   "total_matches": 6,
   "matches": [
     {
@@ -130,9 +130,9 @@
         "https://areagame.net/mma/blog/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8",
         "https://storage.googleapis.com/potughertung3/mux_video_ts/index-1.m3u8",
-        "https://areagame.net/5555.php",
-        "https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8"
+        "https://areagame.net/5555.php"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -143,15 +143,15 @@
               "url": "https://areagame.net/5555.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/potughertung3/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/potughertung3/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8",
             "https://storage.googleapis.com/potughertung3/mux_video_ts/index-1.m3u8",
-            "https://areagame.net/5555.php",
-            "https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8"
+            "https://areagame.net/5555.php"
           ]
         }
       ]
@@ -165,9 +165,9 @@
         "https://areagame.net/mma/totalm/"
       ],
       "stream_urls": [
+        "https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8",
         "https://storage.googleapis.com/potughertung3/mux_video_ts/index-1.m3u8",
-        "https://areagame.net/5555.php",
-        "https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8"
+        "https://areagame.net/5555.php"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -178,15 +178,15 @@
               "url": "https://areagame.net/5555.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/potughertung3/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8"
+                "https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8",
+                "https://storage.googleapis.com/potughertung3/mux_video_ts/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8",
             "https://storage.googleapis.com/potughertung3/mux_video_ts/index-1.m3u8",
-            "https://areagame.net/5555.php",
-            "https://storage.googleapis.com/potughertung3/mux_video_ts1/index-1.m3u8"
+            "https://areagame.net/5555.php"
           ]
         }
       ]
