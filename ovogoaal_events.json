@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T23:58:37.275695Z",
+  "last_updated": "2026-03-09T02:35:34.345585Z",
   "total_matches": 2,
   "matches": [
     {
@@ -30,9 +30,9 @@
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/puturgertung1/mux_video_ts1/index-1.m3u8",
             "https://storage.googleapis.com/puturgertung1/mux_video_ts/index-1.m3u8",
-            "https://24start.net/1111.php",
-            "https://storage.googleapis.com/puturgertung1/mux_video_ts1/index-1.m3u8"
+            "https://24start.net/1111.php"
           ]
         }
       ]
@@ -46,8 +46,8 @@
         "https://24start.net/homes/blogf1/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/puturgertung2/mux_video_ts/index-1.m3u8",
         "https://24start.net/2222.php",
+        "https://storage.googleapis.com/puturgertung2/mux_video_ts/index-1.m3u8",
         "https://storage.googleapis.com/puturgertung2/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -65,9 +65,9 @@
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/puturgertung2/mux_video_ts/index-1.m3u8",
             "https://24start.net/2222.php",
-            "https://storage.googleapis.com/puturgertung2/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/puturgertung2/mux_video_ts1/index-1.m3u8",
+            "https://storage.googleapis.com/puturgertung2/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
