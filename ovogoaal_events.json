@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-12T03:57:08.236021Z",
+  "last_updated": "2026-03-12T05:15:22.200114Z",
   "total_matches": 1,
   "matches": [
     {
@@ -11,9 +11,9 @@
         "https://24start.net/homes/blog1/"
       ],
       "stream_urls": [
+        "https://24start.net/s1.php",
         "https://storage.googleapis.com/unjhgertyngyut1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/unjhgertyngyut1/mux_video_ts1/index-1.m3u8",
-        "https://24start.net/s1.php"
+        "https://storage.googleapis.com/unjhgertyngyut1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -30,9 +30,9 @@
             }
           ],
           "stream_urls": [
+            "https://24start.net/s1.php",
             "https://storage.googleapis.com/unjhgertyngyut1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/unjhgertyngyut1/mux_video_ts1/index-1.m3u8",
-            "https://24start.net/s1.php"
+            "https://storage.googleapis.com/unjhgertyngyut1/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
