@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T12:46:16.841909Z",
+  "last_updated": "2026-03-15T13:43:06.018874Z",
   "total_matches": 6,
   "matches": [
     {
@@ -12,8 +12,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/pourihtnfewad1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/pourihtnfewad1/mux_video_ts1/index-1.m3u8",
-        "https://24start.net/s1.php"
+        "https://24start.net/s1.php",
+        "https://storage.googleapis.com/pourihtnfewad1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -47,8 +47,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/onuxertungover1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/onuxertungover1/mux_video_ts1/index-1.m3u8",
-        "https://24start.net/s2.php"
+        "https://24start.net/s2.php",
+        "https://storage.googleapis.com/onuxertungover1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -66,8 +66,8 @@
           ],
           "stream_urls": [
             "https://storage.googleapis.com/onuxertungover1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/onuxertungover1/mux_video_ts1/index-1.m3u8",
-            "https://24start.net/s2.php"
+            "https://24start.net/s2.php",
+            "https://storage.googleapis.com/onuxertungover1/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
@@ -110,8 +110,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/pourihtnfewad1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/pourihtnfewad1/mux_video_ts1/index-1.m3u8",
-        "https://24start.net/s1.php"
+        "https://24start.net/s1.php",
+        "https://storage.googleapis.com/pourihtnfewad1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -144,28 +144,21 @@
         "https://24start.net/homes/blog4/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/uncertynghfn3/mux_video_ts/index-1.m3u8",
-        "https://areagame.net/4444.php",
-        "https://storage.googleapis.com/uncertynghfn3/mux_video_ts1/index-1.m3u8"
+        "https://24start.net/s4.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://24start.net/homes/blog4/",
           "nested_iframes": [
             {
-              "url": "https://areagame.net/4444.php",
+              "url": "https://24start.net/s4.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/uncertynghfn3/mux_video_ts/index-1.m3u8",
-                "https://storage.googleapis.com/uncertynghfn3/mux_video_ts1/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/uncertynghfn3/mux_video_ts/index-1.m3u8",
-            "https://areagame.net/4444.php",
-            "https://storage.googleapis.com/uncertynghfn3/mux_video_ts1/index-1.m3u8"
+            "https://24start.net/s4.php"
           ]
         }
       ]
@@ -180,8 +173,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/onuxertungover1/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/onuxertungover1/mux_video_ts1/index-1.m3u8",
-        "https://24start.net/s2.php"
+        "https://24start.net/s2.php",
+        "https://storage.googleapis.com/onuxertungover1/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -199,8 +192,8 @@
           ],
           "stream_urls": [
             "https://storage.googleapis.com/onuxertungover1/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/onuxertungover1/mux_video_ts1/index-1.m3u8",
-            "https://24start.net/s2.php"
+            "https://24start.net/s2.php",
+            "https://storage.googleapis.com/onuxertungover1/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
