@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T02:29:30.884397Z",
+  "last_updated": "2026-03-21T04:17:28.378105Z",
   "total_matches": 8,
   "matches": [
     {
@@ -151,8 +151,8 @@
         "https://24start.net/homes/blog2/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/erturugklutop2/mux_video_ts1/index-1.m3u8",
         "https://storage.googleapis.com/erturugklutop2/mux_video_ts/index-1.m3u8",
+        "https://storage.googleapis.com/erturugklutop2/mux_video_ts1/index-1.m3u8",
         "https://24start.net/s2.php"
       ],
       "stream_count": 3,
@@ -164,14 +164,14 @@
               "url": "https://24start.net/s2.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/erturugklutop2/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/erturugklutop2/mux_video_ts/index-1.m3u8"
+                "https://storage.googleapis.com/erturugklutop2/mux_video_ts/index-1.m3u8",
+                "https://storage.googleapis.com/erturugklutop2/mux_video_ts1/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/erturugklutop2/mux_video_ts1/index-1.m3u8",
             "https://storage.googleapis.com/erturugklutop2/mux_video_ts/index-1.m3u8",
+            "https://storage.googleapis.com/erturugklutop2/mux_video_ts1/index-1.m3u8",
             "https://24start.net/s2.php"
           ]
         }
@@ -186,8 +186,8 @@
         "https://24start.net/homes/blog2/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/erturugklutop2/mux_video_ts1/index-1.m3u8",
         "https://storage.googleapis.com/erturugklutop2/mux_video_ts/index-1.m3u8",
+        "https://storage.googleapis.com/erturugklutop2/mux_video_ts1/index-1.m3u8",
         "https://24start.net/s2.php"
       ],
       "stream_count": 3,
@@ -199,14 +199,14 @@
               "url": "https://24start.net/s2.php",
               "nested_iframes": [],
               "stream_urls": [
-                "https://storage.googleapis.com/erturugklutop2/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/erturugklutop2/mux_video_ts/index-1.m3u8"
+                "https://storage.googleapis.com/erturugklutop2/mux_video_ts/index-1.m3u8",
+                "https://storage.googleapis.com/erturugklutop2/mux_video_ts1/index-1.m3u8"
               ]
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/erturugklutop2/mux_video_ts1/index-1.m3u8",
             "https://storage.googleapis.com/erturugklutop2/mux_video_ts/index-1.m3u8",
+            "https://storage.googleapis.com/erturugklutop2/mux_video_ts1/index-1.m3u8",
             "https://24start.net/s2.php"
           ]
         }
@@ -221,8 +221,8 @@
         "https://24start.net/homes/blog3/"
       ],
       "stream_urls": [
-        "https://24start.net/s3.php",
         "https://storage.googleapis.com/erturugklutop3/mux_video_ts/index-1.m3u8",
+        "https://24start.net/s3.php",
         "https://storage.googleapis.com/erturugklutop3/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
@@ -240,8 +240,8 @@
             }
           ],
           "stream_urls": [
-            "https://24start.net/s3.php",
             "https://storage.googleapis.com/erturugklutop3/mux_video_ts/index-1.m3u8",
+            "https://24start.net/s3.php",
             "https://storage.googleapis.com/erturugklutop3/mux_video_ts1/index-1.m3u8"
           ]
         }
@@ -257,8 +257,8 @@
       ],
       "stream_urls": [
         "https://gametimes.plus/pfl.php",
-        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8"
+        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
+        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -275,9 +275,9 @@
             }
           ],
           "stream_urls": [
+            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
             "https://gametimes.plus/pfl.php",
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8"
+            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
