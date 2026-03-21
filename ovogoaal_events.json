@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T16:53:26.858637Z",
+  "last_updated": "2026-03-21T17:21:54.873372Z",
   "total_matches": 8,
   "matches": [
     {
@@ -12,8 +12,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8",
-        "https://24start.net/s1.php"
+        "https://24start.net/s1.php",
+        "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -31,8 +31,8 @@
           ],
           "stream_urls": [
             "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8",
-            "https://24start.net/s1.php"
+            "https://24start.net/s1.php",
+            "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -47,8 +47,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8",
-        "https://24start.net/s1.php"
+        "https://24start.net/s1.php",
+        "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -66,8 +66,8 @@
           ],
           "stream_urls": [
             "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8",
-            "https://24start.net/s1.php"
+            "https://24start.net/s1.php",
+            "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -82,8 +82,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8",
-        "https://24start.net/s1.php"
+        "https://24start.net/s1.php",
+        "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -101,8 +101,8 @@
           ],
           "stream_urls": [
             "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8",
-            "https://24start.net/s1.php"
+            "https://24start.net/s1.php",
+            "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -117,8 +117,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts1/index-1.m3u8",
-        "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8",
-        "https://24start.net/s1.php"
+        "https://24start.net/s1.php",
+        "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -136,8 +136,8 @@
           ],
           "stream_urls": [
             "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts1/index-1.m3u8",
-            "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8",
-            "https://24start.net/s1.php"
+            "https://24start.net/s1.php",
+            "https://storage.googleapis.com/uytytuhggerd1/mux_video_ts/index-1.m3u8"
           ]
         }
       ]
@@ -235,28 +235,21 @@
         "https://24start.net/mma/blog-pfl/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
-        "https://gametimes.plus/pfl.php",
-        "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8"
+        "https://24start.net/s4.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://24start.net/mma/blog-pfl/",
           "nested_iframes": [
             {
-              "url": "https://gametimes.plus/pfl.php",
+              "url": "https://24start.net/s4.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts1/index-1.m3u8",
-            "https://gametimes.plus/pfl.php",
-            "https://storage.googleapis.com/pourtytnvvsde2/mux_video_ts/index-1.m3u8"
+            "https://24start.net/s4.php"
           ]
         }
       ]
