@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T19:54:00.758467Z",
+  "last_updated": "2026-03-22T20:21:00.012911Z",
   "total_matches": 3,
   "matches": [
     {
@@ -40,8 +40,8 @@
       ],
       "stream_urls": [
         "https://storage.googleapis.com/qweryngherovo2/mux_video_ts/index-1.m3u8",
-        "https://storage.googleapis.com/qweryngherovo2/mux_video_ts1/index-1.m3u8",
-        "https://24start.net/s3.php"
+        "https://24start.net/s3.php",
+        "https://storage.googleapis.com/qweryngherovo2/mux_video_ts1/index-1.m3u8"
       ],
       "stream_count": 3,
       "iframe_details": [
@@ -59,8 +59,8 @@
           ],
           "stream_urls": [
             "https://storage.googleapis.com/qweryngherovo2/mux_video_ts/index-1.m3u8",
-            "https://storage.googleapis.com/qweryngherovo2/mux_video_ts1/index-1.m3u8",
-            "https://24start.net/s3.php"
+            "https://24start.net/s3.php",
+            "https://storage.googleapis.com/qweryngherovo2/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
@@ -93,9 +93,9 @@
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/qweryngherovo1/mux_video_ts1/index-1.m3u8",
             "https://24start.net/s2.php",
-            "https://storage.googleapis.com/qweryngherovo1/mux_video_ts/index-1.m3u8"
+            "https://storage.googleapis.com/qweryngherovo1/mux_video_ts/index-1.m3u8",
+            "https://storage.googleapis.com/qweryngherovo1/mux_video_ts1/index-1.m3u8"
           ]
         }
       ]
