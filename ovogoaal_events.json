@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T14:04:33.827435Z",
+  "last_updated": "2026-03-22T14:45:42.213932Z",
   "total_matches": 7,
   "matches": [
     {
@@ -123,11 +123,9 @@
         "https://24start.net/homes/blog3/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/qweryngherovo4/mux_video_ts1/index-1.m3u8",
-        "https://24start.net/s3.php",
-        "https://storage.googleapis.com/qweryngherovo4/mux_video_ts/index-1.m3u8"
+        "https://24start.net/s3.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://24start.net/homes/blog3/",
@@ -135,16 +133,11 @@
             {
               "url": "https://24start.net/s3.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/qweryngherovo4/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/qweryngherovo4/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/qweryngherovo4/mux_video_ts1/index-1.m3u8",
-            "https://24start.net/s3.php",
-            "https://storage.googleapis.com/qweryngherovo4/mux_video_ts/index-1.m3u8"
+            "https://24start.net/s3.php"
           ]
         }
       ]
@@ -158,11 +151,9 @@
         "https://24start.net/homes/blog3/"
       ],
       "stream_urls": [
-        "https://storage.googleapis.com/qweryngherovo4/mux_video_ts1/index-1.m3u8",
-        "https://24start.net/s3.php",
-        "https://storage.googleapis.com/qweryngherovo4/mux_video_ts/index-1.m3u8"
+        "https://24start.net/s3.php"
       ],
-      "stream_count": 3,
+      "stream_count": 1,
       "iframe_details": [
         {
           "url": "https://24start.net/homes/blog3/",
@@ -170,16 +161,11 @@
             {
               "url": "https://24start.net/s3.php",
               "nested_iframes": [],
-              "stream_urls": [
-                "https://storage.googleapis.com/qweryngherovo4/mux_video_ts1/index-1.m3u8",
-                "https://storage.googleapis.com/qweryngherovo4/mux_video_ts/index-1.m3u8"
-              ]
+              "stream_urls": []
             }
           ],
           "stream_urls": [
-            "https://storage.googleapis.com/qweryngherovo4/mux_video_ts1/index-1.m3u8",
-            "https://24start.net/s3.php",
-            "https://storage.googleapis.com/qweryngherovo4/mux_video_ts/index-1.m3u8"
+            "https://24start.net/s3.php"
           ]
         }
       ]
